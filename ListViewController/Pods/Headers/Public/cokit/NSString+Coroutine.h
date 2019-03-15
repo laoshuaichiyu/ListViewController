@@ -1,0 +1,1 @@
+../../../cokit/cokit/cokit/Foundation/NSString+Coroutine.h
